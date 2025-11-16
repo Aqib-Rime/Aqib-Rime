@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌟 Aqib Rime — Software Engineer (Next.js • Payload CMS • Full-Stack)
 
-<!--
-**Aqib-Rime/Aqib-Rime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Aqib**, a full-stack software developer specializing in **Next.js**, **Payload CMS**, and building fast, scalable, production-grade applications.  
+I love crafting clean architectures, solving complex problems, and delivering end-to-end solutions that actually ship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Skills
+
+### **Frontend**
+- ⚡ **Next.js** (App Router, SSR/ISR/SSG, Server Actions)
+- 🎨 **Tailwind CSS**, **Shadcn UI**, **Radix UI**
+- 🔥 **React 19**, Zustand, TanStack Query
+
+### **Backend**
+- 🧱 **Payload CMS** (custom collections, auth, hooks, access control)
+- 🛠️ **Express.js**, **Node.js**
+- 🗄️ **PostgreSQL**, **MongoDB**, **Prisma**, **Drizzle ORM**
+- 🔐 Auth: **Better-auth**, **NextAuth**, **Clerk**
+- ☁️ Deployment: **Vercel**, **Dokploy**
+
+---
